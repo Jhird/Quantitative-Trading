@@ -1,0 +1,16 @@
+The initial CASH in this backtest was -- $USD 1000000 
+The final value of the portfolio is -- $USD 582970 
+Details of the Performance of the portfolio : 
+Data Range : 2010-03-03 to 2015-12-31 
+
+Sharpe Ratio of Fund : -1.056842 
+Sharpe Ratio of Benchmark : 0.859737 
+
+Total Return of Fund : 0.583134 
+Total Return of Benchmark : 2.050800 
+
+Standard Deviation of Fund : 0.005299 
+Standard Deviation of Benchmark : 0.009937 
+
+Average Daily Return of Fund : -0.000353 
+Average Daily Return of Benchmark : 0.000538 

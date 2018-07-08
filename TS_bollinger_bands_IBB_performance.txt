@@ -1,0 +1,7 @@
+The final value of the portfolio is -- $USD 250223 
+Details of the Performance of the portfolio : 
+Data Range : 2013-01-30 to 2015-12-30 
+Sharpe Ratio of Fund : 0.940097 Sharpe Ratio of Market : 1.281019 
+Total Return of Fund : 2.532621 Total Return of Market : 2.355795 
+Standard Deviation of Fund : 0.027968 Standard Deviation of Market : 0.016032 
+Average Daily Return of Fund : 0.001656 Average Daily Return of Market : 0.001294 
